@@ -1,4 +1,4 @@
-# MolDyn
+# MolDyn.jl
 
 This codes solve MD for a gas using a NVE ensemble.
 It is based on the Pyhton code provided in the preprint:
